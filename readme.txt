@@ -1,4 +1,4 @@
-readme --master copy
+readme --featureA copy
 This is a webhook integration demo
 
 new Line-1 Added
